@@ -1,0 +1,40 @@
+.forHover:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    box-shadow: 4px 8px 8px 4px rgba(68, 2, 250, 0.301);
+    background-color:rgba(68, 2, 250, 0.1) ;
+    color: rgb(66, 152, 250);
+    transform: scale(1.01); 
+}
+
+.forHover{
+    margin:auto;
+    margin-top: 2%;
+    justify-content: center;
+    box-shadow: 4px 8px 8px 4px rgba(0, 0, 0, 0.2);
+    width:100%;
+    border-top: 1px solid #d3d3d3d3;
+}
+
+.forHover h1{
+    margin: auto;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.forHover img{
+    width: 80%;
+    height: auto;
+    
+}
+
+.listHover:hover{
+    text-decoration: underline;
+    color: rgb(66, 152, 250);
+    cursor: pointer;
+    transform: scale(1.05); 
+}
+
+.listHover img{
+    width:"80%";
+}
